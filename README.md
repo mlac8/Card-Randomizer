@@ -1,0 +1,1 @@
+Command Line Interface program that requests the user to draw any number of playing cards from a deck, and subsequently gives random cards of any suite or numerical value. This program utilizes multiple arrays and a randomizer functions to scramble the deck.
